@@ -1,6 +1,8 @@
-## About me
+## Welcome
 
-Hi, I'm Mvmxn. You might recognize me as GitHub's mascot.
+<!-- TO DO: add more details about me later -->
+
+Hi, I'm Mvmxn (Mumin), nice to meet you!
 
 | Rank | Languages |
 |:----:|-----------|
