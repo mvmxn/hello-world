@@ -20,4 +20,4 @@ Hi, I'm Mvmxn (Mumin), nice to meet you!
 </details>
 
 ---
-> This repository is made by MVMXN I | 26/12/2024
+> This repository has made by MVMXN I | 26/12/2024
